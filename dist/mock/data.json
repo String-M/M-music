@@ -1,0 +1,29 @@
+[
+    {
+        "image":"/source/song_1.jpg",
+        "audio":"/source/song_1.mp3",
+        "song":"成长",
+        "album":"太歌",
+        "singer":"胡彦斌TigerHu",
+        "duration":"253",
+        "islike":true
+    },
+    {
+        "image":"/source/song_2.jpg",
+        "audio":"/source/song_2.mp3",
+        "song":"等雨停停",
+        "album":"W.BOWEN",
+        "singer":"王博文",
+        "duration":"297",
+        "islike":false
+    },
+    {
+        "image":"/source/song_3.jpg",
+        "audio":"/source/song_3.mp3",
+        "song":"晚安",
+        "album":"晚安",
+        "singer":"丢火车",
+        "duration":"280",
+        "islike":false
+    }
+]
